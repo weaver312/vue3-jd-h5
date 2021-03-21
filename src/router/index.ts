@@ -4,11 +4,11 @@
  * @Author: GitHubGanKai
  * @Date: 2021-03-20 10:28:10
  * @LastEditors: geeks.kai@gmail.com
- * @LastEditTime: 2021-03-21 11:59:02
+ * @LastEditTime: 2021-03-21 14:00:14
  * @FilePath: /vue-jd-h5/src/router/index.ts
  */
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
-import Home from '../views/Home';
+import Home from '../views/home/index';
 
 const routes: Array<RouteRecordRaw> = [
   {

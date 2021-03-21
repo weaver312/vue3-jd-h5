@@ -11,6 +11,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "jss": "^10.6.0",
+    "jss-preset-default": "^10.6.0",
     "lodash-es": "^4.17.21",
     "vant": "^3.0.9",
     "vue": "^3.0.0",
